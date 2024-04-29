@@ -1,0 +1,26 @@
+/*
+isto é um comentário, tudo em verde não aplicará quaisquer mudanças na estilização da página
+para fazer um comentário digite barra "/" seguido de asterisco "*" fechando com asterisco e barra.
+tudo entre estes quatro símbolos será um comentário.
+
+para alterar a dimensão de algo utilizamos
+height:(algum valor)px; =>  para alterar a altura;
+width:(algum valor)px;  =>  para alterar a largura
+
+background-color:(nome ou código da cor);
+ou 
+background:(nome ou código da cor);  => para alterar a cor de fundo
+
+color:(nome ou código da cor); => para alterar a cor de textos
+
+display:flex;  =>  para mudar a direção que os objetos ficam empilhados dentro de uma caixa
+neste caso, ele passa a ser da esquerda para a direita, ao invés de cima para baixo
+
+flex-wrap:wrap; => impede que objetos continuem empilhando após ultrapassar o tamanho da caixa de origem,
+passando à ocupar espaço abaixo, ou ao lado, dependendo da direção do empilhamento.
+
+padding-(left/right/up/down):(algum valor)px;  => para criar um espaçamento em alguma direção específica
+padding:(algum valor)px;  => para criar um espaçamento em todas as direções
+
+align-items:(center/top/bottom); muda o alinhamento dos elemento dentro de uma caixa, ao centro , para cima, para baixo
+*/
